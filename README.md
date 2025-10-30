@@ -11,6 +11,8 @@ Ros2 기반의 Wheel odom, IMU, Lidar 등의 센서를 활용해 Slam을 수행�
 
 ## 2.Demo
 
+[![Autobot](http://img.youtube.com/vi/'d7foac82g7I'/0.jpg)](https://youtu.be/'d7foac82g7I')
+
 ## 3. Design
 
 ### 3.1 Software Architecture
